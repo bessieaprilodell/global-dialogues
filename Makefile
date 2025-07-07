@@ -1,7 +1,7 @@
 # Global Dialogues Analysis Makefile
 
 # Variables
-PYTHON := python
+PYTHON := python3
 TOOLS_DIR := tools/scripts
 ANALYSIS_DIR := tools/scripts
 
